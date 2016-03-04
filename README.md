@@ -28,14 +28,14 @@ Present the user with a menu to convert the following:
 
 Use a Java switch statement to determine the user's input and perform the conversion according to the conversion factors shown below. The program should display each instance (input data and output string).
 Use int data type for the menu selections. use double data types for the conversion units.
-1 ounce = 28.375 grams
-1 gram = 0.035 ounces
-1 pound = 0.454 kilograms
-1 kilogram = 2.204 grams
-1 mile = 1.6 kilometers
-1 kilometer = 0.6 miles
-1 foot = 0.3 meters
-1 meter = 3.3 feet
+* 1 ounce = 28.375 grams
+* 1 gram = 0.035 ounces
+* 1 pound = 0.454 kilograms
+* 1 kilogram = 2.204 grams
+* 1 mile = 1.6 kilometers
+* 1 kilometer = 0.6 miles
+* 1 foot = 0.3 meters
+* 1 meter = 3.3 feet
 
 ##Assignment # 5 (Looping)
 (a) Write and run a Java program using a while repetition structure that will add a series of numbers (integers) with the following parameters:
@@ -46,10 +46,10 @@ Sum of the integers is SUM (integer)
 Assume all integers are positive and LAST > FIRST.
 
 Test your program with the following data:
-FIRST     LAST      DELTA
-1         100         1
-0         100         2
-0           10         5
+* FIRST     LAST      DELTA
+* 1         100         1
+* 0         100         2
+* 0         10          5
 
 (b)  Write a second Java program for the above problem using a for loop
 
