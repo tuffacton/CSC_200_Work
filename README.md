@@ -2,10 +2,10 @@
 Assignments and work for Kamal Kamal CSC 200 (Copy at your own risk!)
 Taught at Northern Virginia Community College Alexandria Campus.
 
-Assignment # 2
+##Assignment # 2
 Write a Java program to convert degrees Celsius to Fahrenheit, and also convert degrees Fahrenjeit to Celsius. Use data type double for your input and output data.
 
-Assignment # 3
+##Assignment # 3
 A movie theater charges its customers for each film in accordance with the following rules:
 If the age entered is 12 or under, the program should display “Charge = $10.00”
 If the age entered is 13 or older, the program should display “Charge = $25.00”
@@ -14,7 +14,7 @@ However, if the time is earlier than 5, the charge should be $10.00 regardless o
 One exception: If the movie is part of a film festival, the charge will be $15.00 per seat regardless of age or time (hint: use a Boolean variable for this).
 Write a Java program that will allow the user to enter the values for integer variables age and time. An additional Boolean variable will be required to indicate if the movie in question is part of a film festival. The program should contain logic that will process the input and print (display) the correct output (i.e., the amount to be charged):
 
-Assignment # 4
+##Assignment # 4
 Develop and test a Java program as follows:
 Present the user with a menu to convert the following:
 1. Ounces  to grams 
@@ -37,7 +37,7 @@ Use int data type for the menu selections. use double data types for the convers
 1 foot = 0.3 meters
 1 meter = 3.3 feet
 
-Assignment # 5 (Looping)
+##Assignment # 5 (Looping)
 (a) Write and run a Java program using a while repetition structure that will add a series of numbers (integers) with the following parameters:
 Starting number is the variable FIRST (inclusive)
 Ending number is the variable LAST (inclusive or exclusive, depending on DELTA))
@@ -53,7 +53,7 @@ FIRST     LAST      DELTA
 
 (b)  Write a second Java program for the above problem using a for loop
 
-Assignment 6
+##Assignment 6
 [This assignment is a variation on Assignment 4]
 Develop and test a Java program as follows:
 Present the user with a menu to convert the following:
@@ -76,7 +76,7 @@ Use int data type for the menu selections. use double data types for the convers
 1 foot = 0.3 meters
 1 meter = 3.3 feet
 
-Assignment # 7
+##Assignment # 7
 Develop and run a Java program to satisfy the following requirement:
 A landscaping company sends employees to various sites (e.g. parks, school grounds, golf courses, etc). These sites will contain a variable number of land segments (plots) having one of 4 shapes:  Square, rectangle, triangle, or circle. There may be more than one plot of the same shape, and the plots vary in size. Employees will need to run a program (the one you are writing) on a portable computer as they survey the site and perform determine the total area of all the plots at the site. The result will be used to determine the amount of soil, mulch, grass seed, and other landscaping materials that will be needed to maintain the site.  The program should adhere to the following characteristics:
 Use individual methods throughout to compute areas of the different shapes
@@ -84,7 +84,7 @@ The user should be presented with a menu of choices (including an exit)
 The user should be prompted to input the necessary dimensions of the respective geometric shape in question.
 Present the source code and evidence of output.
 
-Assignment #8 (Two Programs)
+##Assignment #8 (Two Programs)
 Program A. Develop a program containing 4 separate Java methods to perform the following on a one-dimensional integer array LIST of dimension N:
 Determine (i.e. “return”) the highest value in LIST.
 Determine (i.e. “return”) the lowest value in LIST.
@@ -93,14 +93,14 @@ Determine (i.e. “return”) the average of the values in LIST after eliminatin
 Program B.  Develop a Java program that will add the corresponding elements of two 1-dimensional arrays X and Y to produce the 1-dimensional array Z.  Arrays X, Y, Z have the same dimension [M].              
 NOTE: In the above programs, you will need to have the user input the dimensions of the respective arrays before execution of the methods. Also, output the results of all computations.
 
-Assignment # 9
+##Assignment # 9
 Develop a program to perform a binary search on a one-dimensional integer array LIST of dimension N. You should develop an independent search method (call it BinSearch), and write your program so that the BinSearch method is invoked from your main program or another method. The BinSearch method should accept a search key parameter and return a Boolean value (Success). Maintain a count of the number of comparisons attempted during the execution of the method. Assume the array is already sorted in ascending order, and that there are no duplicate entries. Use a while loop for the binary search.
 Repeat the above assignment using a recursive method for the binary search instead of the while loop.
 Repeat the above to perform a sequential search on the same array.
 In each of the above cases, maintain a count of the number of iterations needed to perform the different search functions on the same array.
 I all cases, remember to include the condition when a search key is NOT found in the array.
 
-Assignment # 10
+##Assignment # 10
 Develop a Java program containing 2 methods (other than main) to perform a sort on a one-dimensional integer array myArray of dimension N:
 Method 1. Using a simple selection sort
 Method 2. Using a bubble sort.   
