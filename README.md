@@ -1,5 +1,5 @@
-# CSC 200 Work
-Assignments and work for Kamal Kamal CSC 200 (Copy at your own risk!)\n
+# CSC 200 Work :computer:
+Assignments and work for Kamal Kamal Computer Science 200  (Copy at your own risk!)
 Taught at Northern Virginia Community College Alexandria Campus.
 
 ##Assignment # 2
