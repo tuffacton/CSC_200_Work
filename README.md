@@ -67,14 +67,14 @@ Present the user with a menu to convert the following:
 8. kilometers to miles
 Use a Java switch statement to determine the user's input and perform the conversion according to the conversion factors shown below. The program should display each instance (input data and output string). Add a do ... while structure around the switch structure allowing the user to repeat the program as many times as needed. Allow for a menu item (usually the last menu item) for the user to exit the program.
 Use int data type for the menu selections. use double data types for the conversion units.
-1 ounce = 28.375 grams
-1 gram = 0.035 ounces
-1 pound = 0.454 kilograms
-1 kilogram = 2.204 grams
-1 mile = 1.6 kilometers
-1 kilometer = 0.6 miles
-1 foot = 0.3 meters
-1 meter = 3.3 feet
+* 1 ounce = 28.375 grams
+* 1 gram = 0.035 ounces
+* 1 pound = 0.454 kilograms
+* 1 kilogram = 2.204 grams
+* 1 mile = 1.6 kilometers
+* 1 kilometer = 0.6 miles
+* 1 foot = 0.3 meters
+* 1 meter = 3.3 feet
 
 ##Assignment # 7
 Develop and run a Java program to satisfy the following requirement:
@@ -86,10 +86,10 @@ Present the source code and evidence of output.
 
 ##Assignment #8 (Two Programs)
 Program A. Develop a program containing 4 separate Java methods to perform the following on a one-dimensional integer array LIST of dimension N:
-Determine (i.e. “return”) the highest value in LIST.
-Determine (i.e. “return”) the lowest value in LIST.
-Determine (i.e. “return”) the sum of all the items in LIST.
-Determine (i.e. “return”) the average of the values in LIST after eliminating the lowest and the highest values. This method should invoke some or all of the other 3 methods.
+* Determine (i.e. “return”) the highest value in LIST.
+* Determine (i.e. “return”) the lowest value in LIST.
+* Determine (i.e. “return”) the sum of all the items in LIST.
+* Determine (i.e. “return”) the average of the values in LIST after eliminating the lowest and the highest values. This method should invoke some or all of the other 3 methods.
 Program B.  Develop a Java program that will add the corresponding elements of two 1-dimensional arrays X and Y to produce the 1-dimensional array Z.  Arrays X, Y, Z have the same dimension [M].              
 NOTE: In the above programs, you will need to have the user input the dimensions of the respective arrays before execution of the methods. Also, output the results of all computations.
 
@@ -102,7 +102,7 @@ I all cases, remember to include the condition when a search key is NOT found in
 
 ##Assignment # 10
 Develop a Java program containing 2 methods (other than main) to perform a sort on a one-dimensional integer array myArray of dimension N:
-Method 1. Using a simple selection sort
-Method 2. Using a bubble sort.   
+* Method 1. Using a simple selection sort
+* Method 2. Using a bubble sort.   
 In each of the above cases, maintain a count of the number of passes needed to perform the different sorts on the same array.
 Bonus: Find a sort that is more efficient (i.e. requires less passes on average) than the above sort algorithms, and write a method to perform the sort on myArray.
